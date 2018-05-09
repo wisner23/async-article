@@ -14,3 +14,5 @@ To visualize and run the jupyter notebook:
  - Type: conda create -n yourenvname python=x.x anaconda
  - Activate your environment: source activate yourenvname
  - Type and execute: jupyter notebook
+
+To understand more about it: https://goo.gl/MVyfYL
